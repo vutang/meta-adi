@@ -16,3 +16,4 @@
 /delete-node/ &axi_spdif_tx_core;
 /delete-node/ &misc_clk_2;
 /delete-node/ &axi_sysid_0;
+/delete-node/ &axi_foo_bar;
